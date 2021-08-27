@@ -1,0 +1,1 @@
+// javascript hozircha shart emas
